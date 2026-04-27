@@ -1,0 +1,6 @@
+INC001 | Payment API timeout | Payment API requests timed out due to downstream latency.
+INC002 | Claim update failure | Invalid payload from upstream system caused failure.
+INC003 | User API 500 error | Null value caused internal server error.
+INC004 | Order API DB issue | Database connection pool exhausted.
+INC005 | Auth failure | Token expired causing 401 errors.
+INC006 | High latency | Slow DB queries caused high response time.
