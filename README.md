@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Incident Resolution Assistant (RAG + LLM)
 
 Proof-of-concept project demonstrating:
@@ -14,3 +15,6 @@ streamlit run ui/streamlit_app.py
 
 ## Note
 Uses sample data only.
+=======
+# AI-Incident-RAG-Assistant
+>>>>>>> 5e00675d9f8d9ffe2c32c3f462a5788898587b97
